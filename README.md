@@ -85,6 +85,6 @@ using messaageSize
 Output : Retrieved image
 
 ---
-A project by:
-[Aayush Verma](https://github.com/aayushv) ┊ [Abirbhav Dutta](https://github.com/abirbhav) ┊ [Dishank Narang](https://github.com/dishankng)
+A project by:\
+[Aayush Verma](https://github.com/aayushv) ┊ [Abirbhav Dutta](https://github.com/abirbhav) ┊ [Dishank Narang](https://github.com/dishankng)\
 <sub>(in alphabetical order)</sub>
