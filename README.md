@@ -83,3 +83,7 @@ using messaageSize
 20. Return retrieved Image
 
 Output : Retrieved image
+
+---
+A project by:\
+[Abirbhav Dutta](https://github.com/abirbhav) ┊ [Dishank Narang](https://github.com/dishankng)
